@@ -1,0 +1,49 @@
+/*EXR 1*/
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: green;
+}
+
+/*EXR 2*/
+
+div {
+  background-color: yellow;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
+
+/*EXR 3*/
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+/*EXR 4*/
+
+div {
+    background-color: black;
+}
+
+div p {
+    color: white;
+}
+
+/*EXR 5*/
+
+section h2+p {
+    font-size: 30px;
+}
+
+/*EXR 6*/
+
