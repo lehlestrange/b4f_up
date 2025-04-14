@@ -1,0 +1,46 @@
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box
+{
+    border: 1px solid rgba(45, 43, 43, 0.629);
+    border-radius: 4px;
+    padding: 16px ;
+    width: 30%;
+    margin: 100px;
+}
+
+.wrapper{width:100%;}
+
+img{
+    border-radius: 4px;
+    width: 100%;
+}
+
+.info{width: 100%;
+
+}
+
+.price{font-weight: 700;
+    font-size: large;
+}
+span{text-decoration: line-through;
+    font-size: small;
+    font-weight: 300;
+    color: rgb(38, 36, 36);
+    }
+button{border: none;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    font-weight: 700;
+    margin: 10% 0 0 0;
+}
+
+button:hover{ background-color: rgb(56, 54, 54);
+    cursor: pointer; 
+}
+

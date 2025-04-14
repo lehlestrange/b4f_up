@@ -1,0 +1,33 @@
+
+
+body{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {border: 2px solid red;
+    padding: 16px ;
+    width: 20%;
+    margin: 100px;
+}
+.wra{ border: 8px;
+    background-color: rgb(228, 228, 98);
+    width: 100%;
+    text-align: center;
+    
+
+}
+button{ 
+    background-color: rgb(255, 191, 0);
+    color: azure;
+    border: none;
+    border-radius: 4px;
+    margin: 20; 
+    padding: 4px 10px;
+
+}
+.s{
+    margin-right: 15%;
+}
+button:hover { color: red;
+}
