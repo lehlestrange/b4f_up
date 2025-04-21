@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: karla;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   margin: 5px;
+    
+}
+
+header{
+    background-color: hsl(204, 43%, 93%);
+    font-weight: 700;
+    padding: 2px;
+}
+h1{
+    color: hsl(179, 62%, 43%);
+
+}
+
+h2{
+    color: hsl(71, 73%, 54%);
+}
+
+h2+p{
+    color: hsl(218, 22%, 67%);
+}
+
+main{
+    background-color: hsl(179, 63%, 34%);
+    color: hsl(204, 43%, 93%);
+    padding: 2px;
+}
+
+.price{
+    font-size: 24px;
+}
+span{font-size: 16px;
+    color: hsla(203, 44%, 93%, 0.699);
+
+}
+
+button{ color: white;
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    border-radius: 4px;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    background-color: hsl(179, 51%, 56%);
+    color: hsl(204, 43%, 93%);
+}
